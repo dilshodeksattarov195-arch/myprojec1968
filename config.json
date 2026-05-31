@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emaileync",
+        "uuid": 11928048,
+        "checksum": "1zkhhl"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
